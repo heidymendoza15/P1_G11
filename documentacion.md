@@ -2,6 +2,7 @@
 # UNIVERSIDAD SAN CARLOS DE GUATEMALA
 # CESAR ALEJANDRO SAZO QUISQUINAY 201513858
 # HEIDY LISSETH MENDOZA CARDONA   201503811
+# J
 
 
 ## Emphasis
@@ -11,9 +12,45 @@
 
 ## Lists
 
+### CONFIGURACION VPN   
+* Red Vpn
+![This is a alt text.](/Imagenes/vpn_.PNG "This is a sample image.")
+
+* Configuracion de la VPN
+
+Primero abrimos la consola de la MV y luego colocamos el siguiente comando.
+
+* wget https://cubaelectronica.com/OpenVPN/openvpn-install.sh && sudo bash openvpn-install.sh
+
+
+Luego Colocamos el ip externo de la mv.
+
+Colocamos el protocolo UDP.
+
+Hacemos que la vpn escuche el puerto 1194.
+
+![This is a alt text.](/Imagenes/vpn1.PNG "This is a sample image.")
+
+
+Colocamos que queremos utilizar la VPN de Google.
+
+![This is a alt text.](/Imagenes/vpn2.PNG "This is a sample image.")
+
+Luego esperamos que cree el cliente  escribiendo una llave.
+
+![This is a alt text.](/Imagenes/vpn3.PNG "This is a sample image.")
+
+
+Si queremos crear otro cliente basta con colocar 
+
+* sudo bash openvpn-install.sh
+
+
 ### CONFIGURACION TOPOLOGIA 1
 * TOPOLOGIA1
 ![This is a alt text.](/Imagenes/topologia1.PNG "This is a sample image.")
+
+
 
 Se configuran las ip de las vpc
 
@@ -82,3 +119,163 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 * VPN
 #
 ![This is a alt text.](/Imagenes/vpn.PNG "This is a sample image.")
+
+
+### CONFIGURACION TOPOLOGIA 2
+
+* TOPOLOGIA2
+![This is a alt text.](/Imagenes/topo2.PNG "This is a sample image.")
+
+
+
+* Configuracion de la Nuve:
+
+
+
+
+
+
+
+* switch 1 
+
+* configuracion de los  puertos del switch 1 como modo troncal
+
+* puerto 1 
+![This is a alt text.](/Imagenes/st1.PNG "This is a sample image.")
+
+* puerto 2
+![This is a alt text.](/Imagenes/st2.PNG "This is a sample image.")
+
+
+
+
+* switch 2 
+
+* puerto 0  a modo troncal
+![This is a alt text.](/Imagenes/st3.PNG "This is a sample image.")
+
+* puerto 1 con vlan 30
+![This is a alt text.](/Imagenes/st4.PNG "This is a sample image.")
+
+
+* puerto 2 con vlan 10
+![This is a alt text.](/Imagenes/st5.PNG "This is a sample image.")
+
+
+
+* switch 3
+
+* puerto 0 a modo troncal 
+![This is a alt text.](/Imagenes/st6.PNG "This is a sample image.")
+
+* puerto 1 a vlan 20 
+![This is a alt text.](/Imagenes/st7.PNG "This is a sample image.")
+
+
+  
+
+* CONFIGURACION DE LAS DIRECCIONES IP DE LOS SERVIDORES
+
+* Servidor Ventas configuracion ip 
+
+
+
+* Servidor Contabilidad Configuracion ip 
+
+
+
+* servidor informatica configuracion ip 
+
+
+
+
+
+
+### PING ENTRE MAQUINAS 
+
+* Ventas
+* Ping Vlan Ventas en diferentes equipos 
+![This is a alt text.](/Imagenes/pingventas.PNG "This is a sample image.")
+
+* muestra de la pagina del server Ventas
+![This is a alt text.](/Imagenes/pingventasp.PNG "This is a sample image.")
+
+
+
+
+* Contabilidad
+* Ping Vlan Contabilidad en diferentes equipos 
+![This is a alt text.](/Imagenes/pingconta.PNG "This is a sample image.")
+
+* muestra de la pagina del server Contabilidad
+![This is a alt text.](/Imagenes/pingcontap.PNG "This is a sample image.")
+
+
+
+
+
+
+* Informatica 
+* Ping Vlan Informatica en diferentes equipos 
+![This is a alt text.](/Imagenes/pinginfor.PNG "This is a sample image.")
+
+* muestra de la pagina del server Informatica
+![This is a alt text.](/Imagenes/pinginforp.PNG "This is a sample image.")
+
+
+
+
+
+
+
+
+
+
+
+### CONFIGURACION DE CADA SERVIDOR
+
+* INSTALANDO APACHE 
+
+* actualizamos paquetes
+![This is a alt text.](/Imagenes/apache1.PNG "This is a sample image.")
+
+* actualizamos dependencias 
+![This is a alt text.](/Imagenes/apache2.PNG "This is a sample image.")
+
+* instalamos apache
+![This is a alt text.](/Imagenes/apache3.PNG "This is a sample image.")
+
+* actualizamos las herramientas de apache 
+![This is a alt text.](/Imagenes/apache4.PNG "This is a sample image.")
+
+* Iniciamos el Servicio de apache 
+
+![This is a alt text.](/Imagenes/apache5.PNG "This is a sample image.")
+
+* miramos el status de apache 
+![This is a alt text.](/Imagenes/apache6.PNG "This is a sample image.")
+
+
+* Modificamos las paginas que trae apache por defecto.
+![This is a alt text.](/Imagenes/apache7.PNG "This is a sample image.")
+
+
+* Realizamos estos pasos con cada servidor
+
+
+### PAGINAS DE SERVIDORES
+
+* Pagina de Ventas
+![This is a alt text.](/Imagenes/pagina3.PNG "This is a sample image.")
+
+
+
+* Pagina de Contabilidad
+![This is a alt text.](/Imagenes/pagina1.PNG "This is a sample image.")
+
+
+* Pagina de Informatica
+![This is a alt text.](/Imagenes/pagina2.PNG "This is a sample image.")
+
+
+
