@@ -14,7 +14,7 @@
 
 ### CONFIGURACION VPN   
 * Red Vpn
-![This is a alt text.](/Imagenes/vpn_.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/vpn_.png "This is a sample image.")
 
 * Configuracion de la VPN
 
@@ -29,16 +29,16 @@ Colocamos el protocolo UDP.
 
 Hacemos que la vpn escuche el puerto 1194.
 
-![This is a alt text.](/Imagenes/vpn1.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/vpn1.png "This is a sample image.")
 
 
 Colocamos que queremos utilizar la VPN de Google.
 
-![This is a alt text.](/Imagenes/vpn2.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/vpn2.png "This is a sample image.")
 
 Luego esperamos que cree el cliente  escribiendo una llave.
 
-![This is a alt text.](/Imagenes/vpn3.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/vpn3.png "This is a sample image.")
 
 
 Si queremos crear otro cliente basta con colocar 
@@ -124,7 +124,7 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 ### CONFIGURACION TOPOLOGIA 2
 
 * TOPOLOGIA2
-![This is a alt text.](/Imagenes/topo2.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/topo2.png "This is a sample image.")
 
 
 
@@ -141,10 +141,10 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 * configuracion de los  puertos del switch 1 como modo troncal
 
 * puerto 1 
-![This is a alt text.](/Imagenes/st1.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/st1.png "This is a sample image.")
 
 * puerto 2
-![This is a alt text.](/Imagenes/st2.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/st2.png "This is a sample image.")
 
 
 
@@ -152,24 +152,24 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 * switch 2 
 
 * puerto 0  a modo troncal
-![This is a alt text.](/Imagenes/st3.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/st3.png "This is a sample image.")
 
 * puerto 1 con vlan 30
-![This is a alt text.](/Imagenes/st4.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/st4.png "This is a sample image.")
 
 
 * puerto 2 con vlan 10
-![This is a alt text.](/Imagenes/st5.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/st5.png "This is a sample image.")
 
 
 
 * switch 3
 
 * puerto 0 a modo troncal 
-![This is a alt text.](/Imagenes/st6.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/st6.png "This is a sample image.")
 
 * puerto 1 a vlan 20 
-![This is a alt text.](/Imagenes/st7.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/st7.png "This is a sample image.")
 
 
   
@@ -195,20 +195,20 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 
 * Ventas
 * Ping Vlan Ventas en diferentes equipos 
-![This is a alt text.](/Imagenes/pingventas.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/pingventas.png "This is a sample image.")
 
 * muestra de la pagina del server Ventas
-![This is a alt text.](/Imagenes/pingventasp.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/pingventasp.png "This is a sample image.")
 
 
 
 
 * Contabilidad
 * Ping Vlan Contabilidad en diferentes equipos 
-![This is a alt text.](/Imagenes/pingconta.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/pingconta.png "This is a sample image.")
 
 * muestra de la pagina del server Contabilidad
-![This is a alt text.](/Imagenes/pingcontap.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/pingcontap.png "This is a sample image.")
 
 
 
@@ -217,10 +217,10 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 
 * Informatica 
 * Ping Vlan Informatica en diferentes equipos 
-![This is a alt text.](/Imagenes/pinginfor.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/pinginfor.png "This is a sample image.")
 
 * muestra de la pagina del server Informatica
-![This is a alt text.](/Imagenes/pinginforp.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/pinginforp.png "This is a sample image.")
 
 
 
@@ -237,27 +237,27 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 * INSTALANDO APACHE 
 
 * actualizamos paquetes
-![This is a alt text.](/Imagenes/apache1.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/apache1.png "This is a sample image.")
 
 * actualizamos dependencias 
-![This is a alt text.](/Imagenes/apache2.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/apache2.png "This is a sample image.")
 
 * instalamos apache
-![This is a alt text.](/Imagenes/apache3.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/apache3.png "This is a sample image.")
 
 * actualizamos las herramientas de apache 
-![This is a alt text.](/Imagenes/apache4.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/apache4.png "This is a sample image.")
 
 * Iniciamos el Servicio de apache 
 
-![This is a alt text.](/Imagenes/apache5.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/apache5.png "This is a sample image.")
 
 * miramos el status de apache 
-![This is a alt text.](/Imagenes/apache6.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/apache6.png "This is a sample image.")
 
 
 * Modificamos las paginas que trae apache por defecto.
-![This is a alt text.](/Imagenes/apache7.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/apache7.png "This is a sample image.")
 
 
 * Realizamos estos pasos con cada servidor
@@ -266,16 +266,16 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 ### PAGINAS DE SERVIDORES
 
 * Pagina de Ventas
-![This is a alt text.](/Imagenes/pagina3.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/pagina3.png "This is a sample image.")
 
 
 
 * Pagina de Contabilidad
-![This is a alt text.](/Imagenes/pagina1.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/pagina1.png "This is a sample image.")
 
 
 * Pagina de Informatica
-![This is a alt text.](/Imagenes/pagina2.PNG "This is a sample image.")
+![This is a alt text.](/Imagenes/pagina2.png "This is a sample image.")
 
 
 
