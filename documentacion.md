@@ -33,6 +33,7 @@
 #
 ![This is a alt text.](/Imagenes/pingconta1-conta2.PNG "This is a sample image.")
 * PIN CONTABILIDAD
+#
 ![This is a alt text.](/Imagenes/pingconta2-conta1.PNG "This is a sample image.")
 * PIN INFORMATICA
 #
