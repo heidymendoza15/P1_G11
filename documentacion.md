@@ -148,6 +148,9 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 
 
 
+
+
+
 * switch 2 
 
 * puerto 0  a modo troncal
@@ -168,6 +171,10 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 
 
 
+
+
+
+
 * switch 3
 
 * puerto 0 a modo troncal 
@@ -181,9 +188,6 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 
 
   
-
-
-
 * CONFIGURACION DE LAS DIRECCIONES IP DE LOS SERVIDORES
 ![This is a alt text.](/Imagenes/s6.png "This is a sample image.")
 
