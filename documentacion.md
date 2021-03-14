@@ -152,29 +152,30 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 * switch 2 
 
 * puerto 0  a modo troncal
-![This is a alt text.](/Imagenes/st3.png "This is a sample image.")
+![This is a alt text.](/Imagenes/s1.png "This is a sample image.")
 
 * puerto 1 con vlan 30
-![This is a alt text.](/Imagenes/st4.png "This is a sample image.")
+![This is a alt text.](/Imagenes/s2.png "This is a sample image.")
 
 
 * puerto 2 con vlan 10
-![This is a alt text.](/Imagenes/st5.png "This is a sample image.")
+![This is a alt text.](/Imagenes/s3.png "This is a sample image.")
 
 
 
 * switch 3
 
 * puerto 0 a modo troncal 
-![This is a alt text.](/Imagenes/st6.png "This is a sample image.")
+![This is a alt text.](/Imagenes/s4.png "This is a sample image.")
 
 * puerto 1 a vlan 20 
-![This is a alt text.](/Imagenes/st7.png "This is a sample image.")
+![This is a alt text.](/Imagenes/s5.png "This is a sample image.")
 
 
   
 
 * CONFIGURACION DE LAS DIRECCIONES IP DE LOS SERVIDORES
+![This is a alt text.](/Imagenes/s6.png "This is a sample image.")
 
 * Servidor Ventas configuracion ip 
 
