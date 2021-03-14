@@ -2,15 +2,11 @@
 # UNIVERSIDAD SAN CARLOS DE GUATEMALA
 # CESAR ALEJANDRO SAZO QUISQUINAY 201513858
 # HEIDY LISSETH MENDOZA CARDONA   201503811
-# J
+# JONATHAN BAUDILIO HIDALGO PEREZ 201602440 
+# JOSUE EDUARDO ABELARDE PEREZ    201602890 
 
 
-## Emphasis
 
-*This text will be italic*  
-
-
-## Lists
 
 ### CONFIGURACION VPN   
 * Red Vpn
@@ -128,7 +124,9 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 
 
 
-* Configuracion de la Nuve:
+* Configuracion del tunel de la Nuve:
+
+![This is a alt text.](/Imagenes/tunel2.png "This is a sample image.")
 
 
 
@@ -143,6 +141,7 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 * puerto 1 
 ![This is a alt text.](/Imagenes/st1.png "This is a sample image.")
 
+
 * puerto 2
 ![This is a alt text.](/Imagenes/st2.png "This is a sample image.")
 
@@ -154,12 +153,18 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 * puerto 0  a modo troncal
 ![This is a alt text.](/Imagenes/s1.png "This is a sample image.")
 
-* puerto 1 con vlan 30
+
+
+* puerto 1 con vlan 41
 ![This is a alt text.](/Imagenes/s2.png "This is a sample image.")
 
 
-* puerto 2 con vlan 10
+
+
+* puerto 2 con vlan 21
 ![This is a alt text.](/Imagenes/s3.png "This is a sample image.")
+
+
 
 
 
@@ -168,24 +173,38 @@ Para conectar con la Topología 2 se utiliza la vpn, se utilizó el cliente 2
 * puerto 0 a modo troncal 
 ![This is a alt text.](/Imagenes/s4.png "This is a sample image.")
 
-* puerto 1 a vlan 20 
+
+
+
+* puerto 1 a vlan 31
 ![This is a alt text.](/Imagenes/s5.png "This is a sample image.")
 
 
   
 
+
+
 * CONFIGURACION DE LAS DIRECCIONES IP DE LOS SERVIDORES
 ![This is a alt text.](/Imagenes/s6.png "This is a sample image.")
 
+
+
+
+
+
+
 * Servidor Ventas configuracion ip 
+![This is a alt text.](/Imagenes/ipventas.png "This is a sample image.")
 
 
 
 * Servidor Contabilidad Configuracion ip 
+![This is a alt text.](/Imagenes/ipconta.png "This is a sample image.")
 
 
 
 * servidor informatica configuracion ip 
+![This is a alt text.](/Imagenes/ipinfor.png "This is a sample image.")
 
 
 
