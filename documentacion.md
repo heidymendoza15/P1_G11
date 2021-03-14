@@ -1,6 +1,7 @@
 # PRACTICA 1 REDES DE COMPUTADORAS
 # UNIVERSIDAD SAN CARLOS DE GUATEMALA
 # CESAR ALEJANDRO SAZO QUISQUINAY 201513858
+# HEIDY LISSETH MENDOZA CARDONA   201503811
 
 
 ## Emphasis
@@ -10,23 +11,31 @@
 
 ## Lists
 
-### Unordered
+### CONFIGURACION TOPOLOGIA 1
 
-* IFORMATICA
-![This is a alt text.](/Imagenes/Informatica2.PNG "IFORMATICA")
+Se configuran las ip de las vpc
+
+* INFORMATICA
+![This is a alt text.](/Imagenes/Informatica2.PNG "INFORMATICA")
 * VENTAS
 ![This is a alt text.](/Imagenes/Ventas2.PNG "VENTAS")
-* CLOUD
-#
-![This is a alt text.](/Imagenes/cloud.PNG "CLOUD")
 * CONTABILIDAD1
 ![This is a alt text.](/Imagenes/contabilidad1.PNG "CONTABILIDAD")
+
+Se configuran las ip de las maquinas virtuales 
 * CONTABILIDAD2
 #
 ![This is a alt text.](/Imagenes/contabilidad2.PNG "CONTABILIDAD")
 * INFORMATICA1
 #
 ![This is a alt text.](/Imagenes/informatica1.PNG "This is a sample image.")
+* VENTAS1
+#
+![This is a alt text.](/Imagenes/ventas1.PNG "This is a sample image.")
+
+* CLOUD
+#
+![This is a alt text.](/Imagenes/cloud.PNG "CLOUD")
 * PIN INFORMATICA
 ![This is a alt text.](/Imagenes/pinfinfo2-info1.PNG "This is a sample image.")
 * PIN CONTABILIDAD
