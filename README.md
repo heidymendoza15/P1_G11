@@ -33,4 +33,4 @@ _You **can** combine them_
   1. Item 3a
   1. Item 3b
 
-![This is a alt text.](/Imagenes/Informatica2.png "This is a sample image.")
+![This is a alt text.](/Imagenes/Informatica2.PNG "This is a sample image.")
