@@ -8,10 +8,10 @@
 # Manual Tecnico
 
 Lenguaje utilizado:
-	- FRONT END: Angular-TypeScript
-	- BACK  END: Flask-Python
+- FRONT END: Angular-TypeScript
+- BACK  END: Flask-Python
 Herramienta para pruebas:
-  - Jasmine-Karma
+- Jasmine-Karma
 
 ## Login 
 
