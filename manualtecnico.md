@@ -10,6 +10,7 @@
 Lenguaje utilizado:
 - FRONT END: Angular-TypeScript
 - BACK  END: Flask-Python
+
 Herramienta para pruebas:
 - Jasmine-Karma
 
