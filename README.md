@@ -10,7 +10,7 @@
 
 ### CONFIGURACION VPN   
 * Red Vpn
-![This is a alt text.](/images/im1.png "This is a sample image.")
+![This is a alt text.](/Imagenes/im1.png "This is a sample image.")
 
 * Configuracion de la VPN
 
